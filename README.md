@@ -1,6 +1,7 @@
+![Header](./github-header-image.png)
 <h1 align="center">Hi 👋, I'm Anogh</h1>
 <h3 align="center">A zealous full stack developer</h3>
-<img src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.webp"/>
+<img src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.webp" width="400" align="right"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=radagon12&label=Profile%20views&color=0e75b6&style=flat" alt="radagon12" /> </p>
 
