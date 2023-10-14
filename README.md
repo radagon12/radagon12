@@ -1,5 +1,5 @@
 ![Header](./github-header-image.png)
-<h1 align="center">Hi 👋, I'm Anogh</h1>
+<h1 align="center">Hi 👋, I'm Placeholder</h1>
 <h3 align="center">A zealous full stack developer</h3>
 <img src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.webp" width="400" align="right"/>
 
@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/radagon12](https://github.com/radagon12)
 
-- 📫 How to reach me **anogh25@gmail.com**
+- 📫 How to reach me **Placeholder25@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
